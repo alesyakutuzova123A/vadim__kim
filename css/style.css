@@ -372,13 +372,13 @@ button.btn__consultation:nth-child(4) {
 }
 
 .tab-content table thead th {
-  font-weight: 600;
-  font-size: 1.6rem;
+  font-weight: 700;
+  font-size: 1.9rem;
 }
 
 .tab-content tbody tr {
-  font-weight: 600;
-  font-size: 1.6rem;
+  font-weight: 700;
+  font-size: 1.9rem;
   height: 70px;
   text-align: center;
   padding: 20px 0;
@@ -386,8 +386,9 @@ button.btn__consultation:nth-child(4) {
 }
 
 .tab-content tbody tr td {
-  font-weight: 600;
-  font-size: 1.6rem;
+  font-weight: 700;
+  font-size: 1.9rem;
+  color: #373B47;
 }
 
 .catalog__tabl>h4:nth-child(3) {
