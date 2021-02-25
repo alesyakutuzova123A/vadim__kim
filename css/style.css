@@ -1159,6 +1159,17 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
     width: 100%;
     margin-bottom: 15px;
   }
+  .popup {
+    left: 45%;
+    }
+    
+    .footer__form h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    }
+    .footer__form input {
+    margin-bottom: 20px;
+    }
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
