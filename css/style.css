@@ -1880,11 +1880,11 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   }
 
   .tab-content table thead th {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   .tab-content tbody tr td {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .tab-content h4 {
@@ -1966,4 +1966,10 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
           .tab-content table thead th {
             height: 70px;
         }
+        .tab-content table thead th {
+          font-size: 0.8rem;
+          }
+          .tab-content table thead th {
+          padding: 0 4px;
+          }
 }
