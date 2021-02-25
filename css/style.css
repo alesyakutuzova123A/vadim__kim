@@ -1935,6 +1935,23 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   .slider .slick-dots li {
     display: none;
   }
-
-
+  .popup {
+    top: 10%;
+    left: 60%;
+    width: 300px;
+    }
+    .footer__form h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    }
+    
+    .popup-close {
+    font-size: 1.4rem;
+    }
+    .popup > div:nth-child(2) {
+    padding-top: 40px;
+    }
+    .industry {
+      padding: 60px 0 0px 0;
+      }
 }
