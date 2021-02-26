@@ -788,7 +788,6 @@ span {
 .popup {
   position: fixed;
   top: 20%;
-  left: 35%;
   padding: 20px;
   width: 440px;
   margin: 0 auto;
