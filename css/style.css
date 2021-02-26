@@ -795,6 +795,7 @@ span {
   border-radius: 4px;
   z-index: 99999;
   opacity: 1;
+  margin-left: -800px;
 }
 
 .popup-close {
