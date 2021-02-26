@@ -855,6 +855,9 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
 .contacts__email {
   align-items: center;
   }
+  .tab-content table th {
+    height: 70px;
+}
 @media screen and (min-width: 768px) and (max-width: 1170px) {
   .container {
     width: 95%;
