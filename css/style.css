@@ -561,7 +561,7 @@ div.tab:nth-child(2)>section:nth-child(3)>div:nth-child(1)>h4:nth-child(9) {
 }
 
 .contacts {
-  right: 40%;
+  right: 38%;
   top: -150px;
 }
 
@@ -788,11 +788,10 @@ span {
 .popup {
   position: fixed;
   top: 20%;
-  left: 50%;
+  left: 35%;
   padding: 20px;
   width: 440px;
   margin: 0 auto;
-  margin-left: -200px;
   background: #FE9933;
   border-radius: 4px;
   z-index: 99999;
@@ -853,7 +852,9 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
 .composition>img:nth-child(2) {
   width: 100%;
 }
-
+.contacts__email {
+  align-items: center;
+  }
 @media screen and (min-width: 768px) and (max-width: 1170px) {
   .container {
     width: 95%;
@@ -1161,7 +1162,7 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   }
 
   .popup {
-    left: 45%;
+    left: 50%;
   }
 
   .footer__form h3 {
@@ -1184,6 +1185,9 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   .advantages__wrap>ul:nth-child(1)>li:nth-child(4)>p:nth-child(3) {
     width: 100%;
   }
+  footer h2 {
+    width: 100%;
+    }
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
@@ -1526,6 +1530,9 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   .tabs>label {
     margin-right: 0;
   }
+  .contacts__email {
+    align-items: center;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 479px) {
