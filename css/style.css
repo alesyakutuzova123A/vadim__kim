@@ -561,7 +561,7 @@ div.tab:nth-child(2)>section:nth-child(3)>div:nth-child(1)>h4:nth-child(9) {
 }
 
 .contacts {
-  right: 38%;
+  margin-left: 250px;
   top: -150px;
 }
 
@@ -795,7 +795,7 @@ span {
   border-radius: 4px;
   z-index: 99999;
   opacity: 1;
-  margin-left: -800px;
+  margin-left: -810px;
 }
 
 .popup-close {
@@ -858,6 +858,9 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   .tab-content table th {
     height: 70px;
 }
+.tab-content h4 {
+  margin-top: 40px;
+  }
 @media screen and (min-width: 768px) and (max-width: 1170px) {
   .container {
     width: 95%;
@@ -1075,7 +1078,7 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
 
   .popup {
     top: 10%;
-    left: 30%;
+    margin: 0 auto;
     width: 50%;
   }
 
@@ -1164,9 +1167,7 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
     margin-bottom: 15px;
   }
 
-  .popup {
-    left: 50%;
-  }
+  
 
   .footer__form h3 {
     font-size: 1.8rem;
@@ -1294,7 +1295,8 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
 
   .popup {
     top: 10%;
-    left: 46%;
+    margin: 0 auto;
+    width: 90%;
   }
 
   .composition>img:nth-child(2) {
@@ -1342,48 +1344,36 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   }
 
   .composition {
-    padding: 100px 0;
     padding: 60px 0;
   }
 
   .advantages {
-    padding: 40px 0;
     padding: 0 0 60px 0;
   }
 
   .industry h2 {
-    font-size: 3rem;
-    width: 800px;
-    margin-bottom: 60px;
     font-size: 2rem;
     width: 100%;
     margin-bottom: 40px;
   }
 
   .slider__item h3 {
-    font-size: 24px;
     font-size: 1.8rem;
   }
 
   .industry {
-    padding: 100px 0;
     padding: 60px 0;
   }
 
   .why {
-    padding: 100px 0 250px 0;
     padding: 60px 0 250px 0;
   }
 
   .why {
-    display: flex;
     display: block;
   }
 
   .why__text p {
-    font-size: 1.6rem;
-    width: 600px;
-    margin-bottom: 20px;
     font-size: 1.4rem;
     width: 100%;
     margin-bottom: 15px;
@@ -1686,48 +1676,36 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   }
 
   .composition {
-    padding: 100px 0;
     padding: 60px 0;
   }
 
   .advantages {
-    padding: 40px 0;
     padding: 0 0 60px 0;
   }
 
   .industry h2 {
-    font-size: 3rem;
-    width: 800px;
-    margin-bottom: 60px;
     font-size: 2rem;
     width: 100%;
     margin-bottom: 40px;
   }
 
   .slider__item h3 {
-    font-size: 24px;
     font-size: 1.8rem;
   }
 
   .industry {
-    padding: 100px 0;
     padding: 60px 0;
   }
 
   .why {
-    padding: 100px 0 250px 0;
     padding: 60px 0 250px 0;
   }
 
   .why {
-    display: flex;
     display: block;
   }
 
   .why__text p {
-    font-size: 1.6rem;
-    width: 600px;
-    margin-bottom: 20px;
     font-size: 1.4rem;
     width: 100%;
     margin-bottom: 15px;
@@ -1976,11 +1954,6 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
     display: none;
   }
 
-  .popup {
-    top: 10%;
-    left: 60%;
-    width: 300px;
-  }
 
   .footer__form h3 {
     font-size: 1.8rem;
@@ -2060,4 +2033,10 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
   .footer__form h3 {
     font-size: 1.3rem;
   }
+  .popup {
+    top: 10%;
+    margin: 0 auto;
+    width: 90%;
+  }
+
 }
