@@ -795,7 +795,6 @@ span {
   border-radius: 4px;
   z-index: 99999;
   opacity: 1;
-  margin-left: -810px;
 }
 
 .popup-close {
@@ -1626,11 +1625,7 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
     margin-bottom: 15px;
   }
 
-  .popup {
-    top: 10%;
-    left: 46%;
-  }
-
+ 
   .composition>img:nth-child(2) {
     width: 100%;
   }
@@ -1659,9 +1654,7 @@ div.tab:nth-child(1)>section:nth-child(3)>div:nth-child(2)>h4:nth-child(4) {
 
   .why {
     padding: 60px 0 250px 0;
-  }
 
-  .why {
     display: block;
   }
 
